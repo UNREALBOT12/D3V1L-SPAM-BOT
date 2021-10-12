@@ -12,8 +12,8 @@
 
 ## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
                           
-<a href="https://t.me/we_are_legendss">https://badges.frapsoft.com/os/v2/open-source.svg?v=103
-<a href="https://t.me/Englishhindichattingroom">https://badges.frapsoft.com/os/v2/open-source.svg?v=103
+<a href="https://t.me/we_are_legendss">❤️❤️🇮🇳🇮🇳
+<a href="https://t.me/Englishhindichattingroom">❤️❤️🇮🇳🇮🇳
 
 -------------------------------------------------
 ## 𝙾𝚆𝙽𝙴𝚁 -[NEONIC🇮🇳](https://t.me/unreal_hun_bro)
