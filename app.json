@@ -1,0 +1,87 @@
+{
+    "name": "D3V1L SPAM BOT",
+    "description": "Best Spamming Bot",
+    "logo": "https://telegra.ph/file/47936310360746ffdc2fe.jpg",
+    "keywords": [
+        "telegram",
+        "telethon",
+        "telegram-bot",
+        "devil-op",
+        "SpamBots"
+    ],
+    "repository": "https://t.me/we_are_legendss",
+    "website": "https://t.me/we_are_legendss",
+    "success_url": "https://t.me/we_are_legendss",
+    "env": {
+      "BOT_TOKEN": {
+        "description": "Bot token, get it from @BotFather",
+        "value": "",
+        "required": true
+      },
+      "APP_ID": {
+        "description": "Bot token, get it from @BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN2": {
+        "description": "Bot token, get it from @BotFather",
+        "value": "",
+        "required": false
+      },
+      "BOT_TOKEN3": {
+        "description": "Bot token, get it from @BotFather",
+        "value": "",
+        "required": false
+      },
+      "BOT_TOKEN4": {
+        "description": "Bot token, get it from @BotFather",
+        "value": "",
+        "required": false
+      },
+      "BOT_TOKEN5": {
+        "description": "Bot token, get it from @BotFather",
+        "value": "",
+        "required": false
+      },
+      "BOT_TOKEN6": {
+        "description": "Bot token, get it from @BotFather",
+        "value": "",
+        "required": false
+      },
+      "BOT_TOKEN7": {
+        "description": "Bot token, get it from @BotFather",
+        "value": "",
+        "required": false
+      },
+      "BOT_TOKEN8": {
+        "description": "Bot token, get it from @BotFather",
+        "value": "",
+        "required": false
+      },
+      "BOT_TOKEN9": {
+        "description": "Bot token, get it from @BotFather",
+        "value": "",
+        "required": false
+      },
+      "BOT_TOKEN10": {
+        "description": "Bot token, get it from @BotFather",
+        "value": "",
+        "required": false
+      },
+      "API_HASH": {
+        "description": "Api Hash",
+        "value": "",
+        "required": true
+      },
+      "SUDO_USERS": {
+        "description": "sudo Users Id",
+        "value": "",
+        "required": true
+      }
+  },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ]
+}
