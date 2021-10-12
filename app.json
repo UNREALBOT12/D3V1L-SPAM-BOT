@@ -10,8 +10,8 @@
         "SpamBots"
     ],
     "repository": "https://github.com/UNREALBOT12/D3V1L-SPAM-BOT",
-    "website": "https://t.me/we_are_legendss",
-    "success_url": "https://t.me/we_are_legendss",
+    "website": "https://github.com/UNREALBOT12/D3V1L-SPAM-BOT",
+    "success_url": "https://github.com/UNREALBOT12/D3V1L-SPAM-BOT",
     "env": {
       "BOT_TOKEN": {
         "description": "Bot token, get it from @BotFather",
