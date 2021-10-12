@@ -12,8 +12,8 @@
 
 ## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
                           
-<a href="https://t.me/we_are_legendss">❤️❤️🇮🇳🇮🇳
-<a href="https://t.me/Englishhindichattingroom">❤️❤️🇮🇳🇮🇳
+<a href="https://t.me/we_are_legendss">CHAT_GROUP/
+<a href="https://t.me/Englishhindichattingroom">SUPPORT_GROUP
 
 -------------------------------------------------
 ## 𝙾𝚆𝙽𝙴𝚁 -[NEONIC🇮🇳](https://t.me/unreal_hun_bro)
